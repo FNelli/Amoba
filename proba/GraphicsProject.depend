@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1487337176 source:c:\users\inspiron\desktop\itk\c++\graphicsproject\main.cpp
+	"graphics.hpp"
+
+1430018866 c:\users\inspiron\desktop\itk\c++\graphicsproject\include\graphics.hpp
+	<string>
+
+1487422980 source:c:\users\inspiron\desktop\itk\c++\gyak1\haromszog\main.cpp
+	"graphics.hpp"
+
+1430018866 c:\users\inspiron\desktop\itk\c++\gyak1\haromszog\include\graphics.hpp
+	<string>
+
